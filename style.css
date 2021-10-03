@@ -1,0 +1,12 @@
+h1{
+    font-family:Cooper;
+    font-size: 20px;
+}
+body{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-family: Cooper;
+    margin: 10px;
+}

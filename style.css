@@ -1,7 +1,3 @@
-h1{
-    font-family:Cooper;
-    font-size: 20px;
-}
 body{
     text-align: center;
 }
@@ -9,6 +5,8 @@ a{
     text-decoration: none;
     font-family: Cooper;
     margin: 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
 }
 #m{
     font-family: 'Bebas Neue', cursive;;
@@ -25,4 +23,8 @@ a{
 #n{
     font-size: 25px;
     font-family: 'Bebas Neue', cursive;
+}
+#heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
 }

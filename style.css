@@ -4,8 +4,8 @@ body{
 a{
     text-decoration: none;
     font-family: Cooper;
-    margin: 10px;
     font-family: 'Lobster', cursive;
+    font-size: 19px;
     font-size: 18px;
 }
 #m{
@@ -27,4 +27,7 @@ a{
 #heading{
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
+}
+h1{
+    font-size: 30px;
 }
